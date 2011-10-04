@@ -1,0 +1,114 @@
+// !$*UTF8*$!
+{
+	01555BA382FAED280FF5F58A /* Juce */ = {
+		activeExec = 0;
+	};
+	541C8B78143ABACA00BBBE48 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7DB37383434F45D8A7B674C3 /* juce_mac_Fonts.mm */;
+		name = "juce_mac_Fonts.mm: 152";
+		rLen = 71;
+		rLoc = 6322;
+		rType = 0;
+		vrLen = 667;
+		vrLoc = 5977;
+	};
+	54357518143AB23D001D3D97 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	54357519143AB23D001D3D97 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	5435751F143AB400001D3D97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "error: 'CTRunGetAdvances' was not declared in this scope";
+		fRef = 7DB37383434F45D8A7B674C3 /* juce_mac_Fonts.mm */;
+		rLen = 1;
+		rLoc = 151;
+		rType = 1;
+	};
+	54357575143AB6FA001D3D97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7DB37383434F45D8A7B674C3 /* juce_mac_Fonts.mm */;
+		name = "juce_mac_Fonts.mm: 152";
+		rLen = 71;
+		rLoc = 6322;
+		rType = 0;
+		vrLen = 667;
+		vrLoc = 5977;
+	};
+	7DB37383434F45D8A7B674C3 /* juce_mac_Fonts.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {828, 10976}}";
+			sepNavSelRange = "{6322, 71}";
+			sepNavVisRange = "{5977, 667}";
+			sepNavWindowFrame = "{{15, 182}, {1150, 691}}";
+		};
+	};
+	FCFFEDFC83101B196BFA2AE2 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeTarget = 01555BA382FAED280FF5F58A /* Juce */;
+		codeSenseManager = 54357519143AB23D001D3D97 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 339393206;
+			PBXWorkspaceStateSaveDate = 339393206;
+		};
+		perUserProjectItems = {
+			541C8B78143ABACA00BBBE48 /* PBXTextBookmark */ = 541C8B78143ABACA00BBBE48 /* PBXTextBookmark */;
+			5435751F143AB400001D3D97 = 5435751F143AB400001D3D97 /* PBXTextBookmark */;
+			54357575143AB6FA001D3D97 = 54357575143AB6FA001D3D97 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 54357518143AB23D001D3D97 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}
